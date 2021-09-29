@@ -4,7 +4,7 @@
 
 <h3> :computer: &nbsp;About Me </h3>
 
-- :thinking: &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- :thinking: &nbsp; Currently studying HTML.CSS at school
 - :mortar_board: &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
 
 
