@@ -4,7 +4,6 @@
 
 <h3> :computer: &nbsp;About Me </h3>
 
-- :thinking: &nbsp; 
 - :mortar_board: &nbsp; Currently studying HTML.CSS at school
 
 
