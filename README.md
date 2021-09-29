@@ -4,8 +4,8 @@
 
 <h3> :computer: &nbsp;About Me </h3>
 
-- :thinking: &nbsp; Currently studying HTML.CSS at school
-- :mortar_board: &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
+- :thinking: &nbsp; 
+- :mortar_board: &nbsp; Currently studying HTML.CSS at school
 
 
 <h3> :tools: &nbsp;Tech Stack</h3>
