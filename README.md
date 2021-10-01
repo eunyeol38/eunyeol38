@@ -7,7 +7,7 @@
 - :mortar_board: &nbsp; Currently studying HTML.CSS at school
 
 
-<h3>:tools: &nbsp;Tech Stack</h3>
+<h3> &nbsp;Tech Stack</h3>
 
 - :globe_with_meridians: &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
