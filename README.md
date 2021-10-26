@@ -4,7 +4,7 @@
 
 <h3> :computer: &nbsp;About Me </h3>
 
-- :mortar_board: &nbsp; Currently studying HTML.CSS at school
+- :mortar_board: &nbsp; Currently studying coding
 
 
 <h3> &nbsp;Tech Stack</h3>
